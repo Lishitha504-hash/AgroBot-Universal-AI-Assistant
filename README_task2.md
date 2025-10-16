@@ -47,7 +47,7 @@ This project is an agriculture chatbot web application that helps users get farm
 ### 1. User Registration
 
 
-`<img width="1366" height="768" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/e295aa59-b21f-43ed-aabd-e5ba336ab2eb" />
+<img width="1366" height="768" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/e295aa59-b21f-43ed-aabd-e5ba336ab2eb" />
 
 ### 2. User Login
 
