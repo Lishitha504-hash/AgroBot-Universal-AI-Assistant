@@ -4,7 +4,6 @@ overview
 ---------
 This project is an agriculture chatbot web application that helps users get farming-related information in multiple languages. Users can create accounts, log in, and chat with the assistant to ask about soil types, fertilizers, pests, and harvesting. The chatbot provides answers using built-in knowledge or by connecting to an AI service. All conversations are saved for users to review later. There is also a special admin area where chats and users can be managed easily.
 
-
 ## Features
 
 * User registration, login, and logout with secure password hashing
